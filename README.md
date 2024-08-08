@@ -5,7 +5,7 @@
 - 🔍 Reading books relaxes the mind
 
 # 🤖 Languages and Tools I Use
-![java-script](https://github.com/user-attachments/assets/7249dfba-38dd-4f99-bdd0-7452c08fbeb5)
+<img src="https://github.com/user-attachments/assets/7249dfba-38dd-4f99-bdd0-7452c08fbeb5" width=50% height=50%>
 ![css-3](https://github.com/user-attachments/assets/cb53586d-46e3-4f8f-be15-65ea0d448fd6)
 ![html](https://github.com/user-attachments/assets/6afce56b-e091-4ca8-a25b-994472f9aa08)
 ![after-effects](https://github.com/user-attachments/assets/a9ea57d3-9f4b-4d20-b45a-52aa9becb528)
