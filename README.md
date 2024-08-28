@@ -1,8 +1,7 @@
 ## Hi, I'm George Azuoru 👋
 
-- 💻 Love to code and edit
-- 💪🏽 My dream is to become a game developer using Unreal Engine. Currently, Right now I am an application builder using .NET 
-- 🔍 Reading books relaxes the mind
+- 💻 Boring C# Developer
+  I need a babe☠️
 
 # 🤖 Languages and Tools I Use
 <img src="https://github.com/user-attachments/assets/cb53586d-46e3-4f8f-be15-65ea0d448fd6" width=5% height=5%>
