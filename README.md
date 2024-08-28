@@ -1,7 +1,7 @@
 ## Hi, I'm George Azuoru 👋
 
 - 💻 Boring C# Developer
-  I need a babe☠️
+- I need a babe☠️
 
 # 🤖 Languages and Tools I Use
 <img src="https://github.com/user-attachments/assets/cb53586d-46e3-4f8f-be15-65ea0d448fd6" width=5% height=5%>
