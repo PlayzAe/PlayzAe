@@ -1,7 +1,9 @@
 ## Hi, I'm George Azuoru 👋
 
-- 💻 Boring C# Developer
-- I need a babe☠️
+- 💻 Boring C# and C++ Developer
+- Using C# On a Good Day☠️
+- Using C++ To read and Write Memory
+- Using C if i have no life 
 
 # 🤖 Languages and Tools I Use
 <img src="https://github.com/user-attachments/assets/cb53586d-46e3-4f8f-be15-65ea0d448fd6" width=5% height=5%>
