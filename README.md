@@ -1,6 +1,6 @@
 ## Hi, I'm George Azuoru 👋
 
-- 💻 Boring C# and C++ Developer
+- 💻 Boring C# Developer But Also Dables In Other Languages 
 - Using C# On a Good Day☠️
 - Using C++ To read and Write Memory
 - Using C if i have no life 
