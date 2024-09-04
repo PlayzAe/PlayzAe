@@ -1,19 +1,26 @@
+# 💫About Me :
 ## Hi, I'm George Azuoru 👋
 
 - 💻 Boring C# Developer But Also Dabbles In Other Languages 
 - Using C# On a Good Day☠️
-- Using C++ To read and Write Memory
-- Using C if i have no life 
+- Using C++ to read and Write Memory
+- Using C if I have no life 
 
-# 🤖 Languages and Tools I Use
-<img src="https://github.com/user-attachments/assets/cb53586d-46e3-4f8f-be15-65ea0d448fd6" width=5% height=5%>
-<img src="https://github.com/user-attachments/assets/6afce56b-e091-4ca8-a25b-994472f9aa08" width=5% height=5%>
-<img src="https://github.com/user-attachments/assets/a9ea57d3-9f4b-4d20-b45a-52aa9becb528" width=5% height=5%>
-<img src="https://github.com/user-attachments/assets/c86c0ade-399d-4ac4-8868-0b6e87d15fe1" width=5% height=5%>
-<img src="https://github.com/user-attachments/assets/ca48f2b3-48af-4524-b03c-ed6c52bf66fe" width=5% height=5%>
-<img src="https://github.com/user-attachments/assets/d968840a-2846-48d6-b60d-25f7204d3715" width=5% height=5%>
-<img src="https://github.com/user-attachments/assets/f7fe0890-7f06-43dd-8b49-3392e281951d" width=5% height=5%>
-<img src="https://github.com/user-attachments/assets/27d3f9ec-45c1-48a4-b6fe-fc785e1923a4" width=5% height=5%>
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/playz_a.e/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/icpplayz/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@IcpPlayz) 
 
+# 💻Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=PlayzAe&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PlayzAe&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlayzAe&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=PlayzAe&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PlayzAe&icon=0&color=0)](https://visitcount.itsvg.in)
