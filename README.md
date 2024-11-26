@@ -74,7 +74,7 @@ Here’s a little something from *Cowboy Bebop*:
 - [Currency Exchange - Windows App](https://github.com/PlayzAe/Currency-Exchange) - A currency exchange app I made with **C#**.
 - [Car Dealer App - MVC + APIs](https://github.com/PlayzAe/CarDealerApp) - An MVC web app for a car dealership, with **C# API** integrations.
 
-<img src="https://raw.githubusercontent.com/playzae/playzae/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 ---
