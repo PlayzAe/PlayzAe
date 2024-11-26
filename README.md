@@ -1,6 +1,6 @@
-# 👋 Yo, I'm George Azuoru - C# Developer, Motion Graphics Buff, and Anime Addict!
+# I'm George - C# Developer, Video Editor, and Anime Fan!
 
-Welcome to my little corner of the internet! I’m a **C# Backend Developer** who’s super into **Web APIs** and **MVC apps**. But when I'm not coding, you’ll probably find me messing around with **Motion Graphics** or binge-watching some anime (because who says you can’t have fun while building stuff? 😎).
+Welcome to my little corner of the internet! I’m a **C# Backend Developer** who’s into **Web APIs** and **MVC apps**. But when I'm not coding, you’ll probably find me messing around with **Editing Videos** or binge-watching some anime (because who says you can’t have fun while building stuff? ).
 
 ## 🌐 Let's Connect!
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/playz_a.e/)
@@ -25,7 +25,7 @@ Welcome to my little corner of the internet! I’m a **C# Backend Developer** wh
 
 ---
 
-## 💥 Anime Fanatic (Yep, I’m That Person) 
+## 💥 Anime Fanatic (Do not watch the ending💀) 
 When I’m not coding, I’m probably watching **Cowboy Bebop**—a classic. It’s got that perfect mix of space bounty hunting, chill vibes, and deep stuff that gets you thinking. Seriously, Spike Spiegel is the kind of character you’ll either love or be terrified of.
 
 Here’s a little something from *Cowboy Bebop*:
@@ -34,13 +34,13 @@ Here’s a little something from *Cowboy Bebop*:
 
 ---
 
-## 📊 GitHub Stats (Because Numbers Are Cool)
+## 📊 GitHub Stats (Because I'm Loosing My Mind)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlayzAe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PlayzAe&theme=radical&hide_border=false)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlayzAe&theme=radical&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies (I Guess I’m Doing Something Right)
+## 🏆 GitHub Trophies (I have none☠️)
 
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=PlayzAe&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
@@ -48,11 +48,11 @@ Here’s a little something from *Cowboy Bebop*:
 
 ## 🔥 Random Dev Quote (Let’s Get Motivated)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
-### ⚡ Fun Facts (Yep, I’m Extra Like That)
+### ⚡ Fun Facts (AI Generated this part btw)
 
 - **Code Is My Weapon**: Catch me coding like I’m leveling up in a game.
 - **Tech + Art**: I mix creativity with tech because why not? Motion graphics and coding = best of both worlds.
@@ -74,6 +74,9 @@ Here’s a little something from *Cowboy Bebop*:
 - [Currency Exchange - Windows App](https://github.com/PlayzAe/Currency-Exchange) - A currency exchange app I made with **C#**.
 - [Car Dealer App - MVC + APIs](https://github.com/PlayzAe/CarDealerApp) - An MVC web app for a car dealership, with **C# API** integrations.
 
+<img src="https://raw.githubusercontent.com/playzae/playzae/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ## 🎨 Visuals & Design
@@ -88,10 +91,3 @@ I’m all about good design, whether it’s in code or animation.
 
 ---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
