@@ -83,7 +83,7 @@ Here’s a little something from *Cowboy Bebop*:
 
 I’m all about good design, whether it’s in code or animation.
 
-![Code + Creativity](https://media.giphy.com/media/rw3oHXGVUuUE0/giphy.gif?cid=790b7611xrjbenesk17pt8oi7dg3sgtys0x2cxfz8ir37s4u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Code + Creativity](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVkb3RuNXExZGtxdGdubGVvN29vNXVzeGx5ZHlmb3NhcGJyOHlnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.gif)
 
 ---
 
