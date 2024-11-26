@@ -30,7 +30,7 @@ When I’m not coding or animating, I’m diving into the world of anime. My all
 
 Here’s a meme sticker to keep things fun, featuring *Monster*:
 
-![Monster Anime Meme](https://media1.tenor.com/m/P-pq7eBvmd4AAAAd/johan-liebert-monster.gif)
+![Cowboy Bepop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNsMG9ndWdlYnlidWg2YWZxaDVrdW8wM2h5eTJsZndudTB3eHk2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif)
 
 ---
 
