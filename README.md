@@ -1,6 +1,6 @@
-# 👋 Hi, I'm George Azuoru - Backend Developer, Motion Graphics Enthusiast, and Anime Fan!
+# 👋 Yo, I'm George Azuoru - C# Developer, Motion Graphics Buff, and Anime Addict!
 
-Welcome to my corner of the web. I'm a **C# Backend Developer** with a passion for **Web APIs** and **MVC** applications, but I also dabble in **Motion Graphics** and **Anime** (because coding can get a bit too serious sometimes, right?). 😎
+Welcome to my little corner of the internet! I’m a **C# Backend Developer** who’s super into **Web APIs** and **MVC apps**. But when I'm not coding, you’ll probably find me messing around with **Motion Graphics** or binge-watching some anime (because who says you can’t have fun while building stuff? 😎).
 
 ## 🌐 Let's Connect!
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/playz_a.e/)
@@ -9,78 +9,78 @@ Welcome to my corner of the web. I'm a **C# Backend Developer** with a passion f
 
 ---
 
-## 🚀 Tech Stack (What I Work With)
+## 🚀 Tech Stuff I Mess With
 
-### 🧑‍💻 **C# & Web Development**:
-- **ASP.NET Core MVC**: Building robust and scalable web applications.
-- **C#**: When I need clean, efficient, and reliable code.
-- **Web APIs**: RESTful APIs to connect systems with seamless integration.
-- **SQL Server**: Storing data in a reliable, efficient database.
-- **JavaScript**: Making the web a bit more interactive.
+### 🧑‍💻 **C# & Web Dev Vibes**:
+- **ASP.NET Core MVC**: Building apps that scale and make sense.
+- **C#**: My go-to for clean and reliable code.
+- **Web APIs**: Making sure systems talk to each other smoothly.
+- **SQL Server**: Data that just works.
+- **JavaScript**: Adding some spice to the web.
 
 ### 🎬 **Motion Graphics**:
-- **After Effects**: Crafting visual animations that tell a story.
-- **Blender**: Adding 3D depth to creative projects.
-- **Premiere Pro**: Cutting and editing videos with finesse.
+- **After Effects**: Turning ideas into cool animations.
+- **Blender**: Adding 3D flair to projects.
+- **Premiere Pro**: Where all the editing magic happens.
 
 ---
 
-## 🎥 Anime Lover 💥
-When I’m not coding or animating, I’m diving into the world of anime. My all-time favorite is **Monster**, where the psychological drama unfolds with Johan as the chilling antagonist. Seriously, if you love gripping plots, psychological thrillers, and mind-bending twists, you gotta check it out.
+## 💥 Anime Fanatic (Yep, I’m That Person) 
+When I’m not coding, I’m probably watching **Cowboy Bebop**—a classic. It’s got that perfect mix of space bounty hunting, chill vibes, and deep stuff that gets you thinking. Seriously, Spike Spiegel is the kind of character you’ll either love or be terrified of.
 
-Here’s a meme sticker to keep things fun, featuring *Monster*:
+Here’s a little something from *Cowboy Bebop*:
 
-![Cowboy Bepop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNsMG9ndWdlYnlidWg2YWZxaDVrdW8wM2h5eTJsZndudTB3eHk2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif)
+![Cowboy Bebop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNsMG9ndWdlYnlidWg2YWZxaDVrdW8wM2h5eTJsZndudTB3eHk2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif)
 
 ---
 
-## 📊 GitHub Stats (Because Numbers Don't Lie)
+## 📊 GitHub Stats (Because Numbers Are Cool)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlayzAe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PlayzAe&theme=radical&hide_border=false)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlayzAe&theme=radical&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies (Yeah, I’ve earned a few!)
+## 🏆 GitHub Trophies (I Guess I’m Doing Something Right)
 
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=PlayzAe&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
-## 🔥 Random Dev Quote (Because Dev Life Needs Motivation)
+## 🔥 Random Dev Quote (Let’s Get Motivated)
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ Fun Facts (Yep, I’m Extra Like That)
 
-- **My Code Is My Weapon**: When I’m in my zone, I write lines of code like a sword fighter in a battle.
-- **Tech + Art**: I believe in mixing creativity with logic, that’s why I love both coding and motion graphics.
-- **Anime Is Life**: If I’m not debugging, I’m probably watching anime (specifically **Monster**, just like I said earlier).
+- **Code Is My Weapon**: Catch me coding like I’m leveling up in a game.
+- **Tech + Art**: I mix creativity with tech because why not? Motion graphics and coding = best of both worlds.
+- **Anime Obsessed**: If I'm not working on code, you can bet I'm rewatching *Cowboy Bebop*. Seriously, it’s THAT good.
 
 ---
 
-## 📅 Currently Working On
+## 📅 What I’m Currently Up To
 
-- **API Development**: Building powerful REST APIs with **C#** and **ASP.NET Core MVC**.
-- **Web Apps**: Designing and developing dynamic and responsive web apps for various use cases.
-- **Motion Graphics Projects**: Creating captivating visuals and animations for video productions.
+- **API Development**: Still building out some solid REST APIs with **C#** and **ASP.NET Core MVC**.
+- **Web Apps**: Designing and developing apps that are functional and look good.
+- **Motion Graphics Projects**: Always got something creative cooking on the side.
 
 ---
 
 ### 💡 Check Out My Projects
 
 - [PurpleScarlet - Mini Mart Website](https://playzae.github.io/Purplescarlet/) - A simple HTML, CSS, and JavaScript website for a mini mart business.
-- [Currency Exchange - Windows App](https://github.com/PlayzAe/Currency-Exchange) - A desktop currency exchange app built using **C#**.
+- [Currency Exchange - Windows App](https://github.com/PlayzAe/Currency-Exchange) - A currency exchange app I made with **C#**.
 - [Car Dealer App - MVC + APIs](https://github.com/PlayzAe/CarDealerApp) - An MVC web app for a car dealership, with **C# API** integrations.
 
 ---
 
 ## 🎨 Visuals & Design
 
-I believe that good design is essential, whether it's in code or in motion graphics. Here's an example of the vibe I’m going for:
+I’m all about good design, whether it’s in code or animation.
 
-![Code + Creativity](https://media.giphy.com/media/L1Jzj9av9Ac6c/giphy.gif)
+![Code + Creativity](https://media.giphy.com/media/rw3oHXGVUuUE0/giphy.gif?cid=790b7611xrjbenesk17pt8oi7dg3sgtys0x2cxfz8ir37s4u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
@@ -88,9 +88,10 @@ I believe that good design is essential, whether it's in code or in motion graph
 
 ---
 
-## 🤖 Let's Build Something Great Together!
+###
 
-If you need a skilled backend developer who’s also into creating motion graphics or just want to chat about **Monster** (or anime in general), feel free to reach out!
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+###
