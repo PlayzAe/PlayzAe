@@ -1,6 +1,6 @@
 # I'm George - C# Developer, Video Editor, and Anime Fan!
 
-Welcome to my little corner of the internet! I’m a **C# Backend Developer** who’s into **Web APIs** and **MVC apps**. But when I'm not coding, you’ll probably find me messing around with **Editing Videos** or binge-watching some anime (because who says you can’t have fun while building stuff? ).
+Welcome to my little corner of the internet! I’m a **C# Backend Developer** who’s into **Web APIs** and **MVC apps**. But when I'm not coding, you’ll probably find me messing around with **Editing Videos** or binge-watching some anime :D
 
 ## 🌐 Let's Connect!
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/playz_a.e/)
@@ -26,9 +26,7 @@ Welcome to my little corner of the internet! I’m a **C# Backend Developer** wh
 ---
 
 ## 💥 Anime Fanatic (Do not watch the ending💀) 
-When I’m not coding, I’m probably watching **Cowboy Bebop**—a classic. It’s got that perfect mix of space bounty hunting, chill vibes, and deep stuff that gets you thinking. Seriously, Spike Spiegel is the kind of character you’ll either love or be terrified of.
-
-Here’s a little something from *Cowboy Bebop*:
+**Cowboy Bebop** GAVE ME TRUST ISSUES
 
 ![Cowboy Bebop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNsMG9ndWdlYnlidWg2YWZxaDVrdW8wM2h5eTJsZndudTB3eHk2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif)
 
@@ -46,7 +44,7 @@ Here’s a little something from *Cowboy Bebop*:
 
 ---
 
-## 🔥 Random Dev Quote (Let’s Get Motivated)
+## 🔥 Random Dev Quote 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -60,7 +58,7 @@ Here’s a little something from *Cowboy Bebop*:
 
 ---
 
-## 📅 What I’m Currently Up To
+## 📅 What I’m Currently Up To (Not up to date)
 
 - **API Development**: Still building out some solid REST APIs with **C#** and **ASP.NET Core MVC**.
 - **Web Apps**: Designing and developing apps that are functional and look good.
