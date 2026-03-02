@@ -81,16 +81,18 @@ Most professional work is under NDA. You can check out some of my stuff on my Yo
 
 ---
 
-### GitHub Stats
+---
+
+### GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PlayzAe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayzAe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PlayzAe&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<a href="https://github.com/PlayzAe">
+  <img height="160" src="https://github-readme-stats-playzaes-projects.vercel.app/api?username=PlayzAe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
+</a>
+<a href="https://github.com/PlayzAe">
+  <img height="160" src="https://github-readme-stats-playzaes-projects.vercel.app/api/top-langs/?username=PlayzAe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+</a>
 
 </div>
 
