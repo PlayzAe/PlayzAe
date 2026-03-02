@@ -87,12 +87,12 @@ Most professional work is under NDA. You can check out some of my stuff on my Yo
 
 <div align="center">
 
-<a href="https://github.com/PlayzAe">
-  <img height="160" src="https://github-readme-stats-playzaes-projects.vercel.app/api?username=PlayzAe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
-</a>
-<a href="https://github.com/PlayzAe">
-  <img height="160" src="https://github-readme-stats-playzaes-projects.vercel.app/api/top-langs/?username=PlayzAe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-</a>
+---
+
+![GitHub followers](https://img.shields.io/github/followers/PlayzAe?style=flat-square&color=58a6ff&labelColor=0d1117)
+![GitHub stars](https://img.shields.io/github/stars/PlayzAe?style=flat-square&color=58a6ff&labelColor=0d1117&affiliations=OWNER)
+
+Open to freelance work and collaborations — [reach out](mailto:azuorugeorge@gmail.com).
 
 </div>
 
