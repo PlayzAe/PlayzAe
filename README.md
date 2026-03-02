@@ -43,6 +43,17 @@ Backend developer working primarily with C# and .NET. Currently learning game ha
 
 ---
 
+### Work
+
+**Game Hacking / Cheats**
+Check out the cheat site here — [zykof-website.vercel.app](https://zykof-website.vercel.app/)
+Source code for both the cheats and the website are private for obvious reasons.
+
+**Video Editing**
+Most professional work is under NDA. You can check out some of my stuff on my YouTube channel — [@dawg-investor](https://www.youtube.com/@dawg-investor)
+
+---
+
 ### Projects
 
 | Project | What It Is | Tech |
@@ -74,6 +85,20 @@ Backend developer working primarily with C# and .NET. Currently learning game ha
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=PlayzAe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayzAe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+
+</div>
+
+---
+
+### Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PlayzAe/PlayzAe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PlayzAe/PlayzAe/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/PlayzAe/PlayzAe/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
