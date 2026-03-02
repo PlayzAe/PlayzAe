@@ -83,16 +83,14 @@ Most professional work is under NDA. You can check out some of my stuff on my Yo
 
 ---
 
-### GitHub Activity
+---
+
+### GitHub Stats
 
 <div align="center">
 
----
 
-![GitHub followers](https://img.shields.io/github/followers/PlayzAe?style=flat-square&color=58a6ff&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/PlayzAe?style=flat-square&color=58a6ff&labelColor=0d1117&affiliations=OWNER)
-
-Open to freelance work and collaborations — [reach out](mailto:azuorugeorge@gmail.com).
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PlayzAe&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
