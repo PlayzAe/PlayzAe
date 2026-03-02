@@ -79,6 +79,8 @@ Most professional work is under NDA. You can check out some of my stuff on my Yo
 
 ---
 
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -86,21 +88,11 @@ Most professional work is under NDA. You can check out some of my stuff on my Yo
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=PlayzAe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayzAe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PlayzAe&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
 </div>
-
----
-
-### Contribution Graph
-
-<div align="center">
-
-  <div>
-    <picture>
-      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake-dark.svg">
-      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg">
-      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
-    </picture>
-  </div>
 
 ---
 
