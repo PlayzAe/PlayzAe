@@ -46,7 +46,7 @@ Backend developer working primarily with C# and .NET. Currently learning game ha
 ### Work
 
 **Game Hacking / Cheats**
-Check out the cheat site here — [zykof-website.vercel.app](https://zykof-website.vercel.app/)
+Check out the cheat site here — [Cheat Website](https://zykof.best/)
 Source code for both the cheats and the website are private for obvious reasons.
 
 **Video Editing**
