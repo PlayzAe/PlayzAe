@@ -1,6 +1,6 @@
 <div align="center">
 
-# George or Call me Moses anyone is fine
+## George or Call me Moses anyone is fine
 
 **I do some coding here and there**
 
@@ -39,10 +39,6 @@ I just crack, break and build shi yh.
 ---
 
 ### Work
-
-**Game Hacking / Cheats**
-Check out the cheat site here — [Cheat Website](https://zykof.best/)
-Source code for both the cheats and the website are private for obvious reasons.
 
 **EMBERFIG**
 Co-Founded the company with my buddy — [@emberfig](https://emberfig.com/)
