@@ -22,7 +22,7 @@ I just crack, break and build shi yh.
 
 **Other** — JavaScript, Node.js, PHP, Discord.js
 
-**Editing** — After Effects, Inshot
+**Editing** — After Effects Pro + Ultra dynamic island UHD FHD Max
 
 ---
 
