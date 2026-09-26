@@ -20,9 +20,9 @@
 
 ### Projects
 
-* 🚀 **[PlayzAnime Desktop](https://github.com/PlayzAe/playz_anime_desktopapp)** — Standalone Windows app for anime & manga. Direct CDN chunk downloads, zero torrents, auto-resume after reboot.
-* 🌐 **[PlayzAnime Web](https://playz-anime.onrender.com)** — Fast, ad-free anime streaming engine running on Render with direct AniList sync.
-* 📜 **[PlayzAnime Docs](https://playzae.github.io/playz_anime_landingpage/)** — Official showcase and knowledge base.
+* **[PlayzAnime Desktop](https://github.com/PlayzAe/playz_anime_desktopapp)** - Standalone Windows app for anime & manga. Direct CDN chunk downloads, zero torrents, auto-resume after reboot.
+* **[PlayzAnime Web](https://playz-anime.onrender.com)** - Fast, ad-free anime streaming engine running on Render with direct AniList sync.
+* **[PlayzAnime Docs](https://playzae.github.io/playz_anime_landingpage/)** - Official showcase and knowledge base.
 
 ---
 
@@ -40,8 +40,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PlayzAe&show_icons=true&theme=radical&hide_border=true&bg_color=0c0b0a&title_color=f0532c&text_color=efe9e1&icon_color=f0532c" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlayzAe&theme=radical&hide_border=true&background=0c0b0a&ring=f0532c&fire=f0532c&currStreakLabel=f0532c&sideLabels=efe9e1&sideNums=efe9e1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlayzAe&theme=radical&hide_border=true&background=0c0b0a&ring=f0532c&fire=f0532c&currStreakLabel=f0532c&sideLabels=efe9e1&sideNums=efe9e1" alt="GitHub Streak" width="60%" />
 </div>
 
 <br/>
