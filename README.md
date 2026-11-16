@@ -1,26 +1,30 @@
-&#x20;\<div align="center">
 
-\<!-- Compact Cowboy Bebop Hero -->
+<div align="center">
 
-\<img src="[https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif](https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif)" alt="Spike Spiegel" width="260" style="border-radius: 6px; border: 1px solid #302824;" />
+<!-- Cowboy Bebop Hero -->
+<img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" alt="Spike Spiegel" width="260" />
 
-\<br/>\<br/>
+<br/><br/>
 
-\<!-- Terminal Typing Banner -->
+<!-- Terminal Typing Banner -->
+<a href="https://github.com/PlayzAe">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F0532C&center=true&vCenter=true&width=520&lines=I+just+crack%2C+break+and+build+shi+yh.;Just+a+dude+who+loves+to+larp.;Cannot+even+solve+two-sum+lmao.;Whatever+happens%2C+happens." alt="Typing SVG" />
+</a>
 
-\<a href="[https://github.com/PlayzAe](https://github.com/PlayzAe)">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F0532C&center=true&vCenter=true&width=520&lines=I+just+crack%2C+break+and+build+shi+yh.;Just+a+dude+who+loves+to+larp.;Cannot+even+solve+two-sum+lmao.;Whatever+happens%2C+happens](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&duration=3000\&pause=1000\&color=F0532C\&center=true\&vCenter=true\&width=520\&lines=I+just+crack%2C+break+and+build+shi+yh.;Just+a+dude+who+loves+to+larp.;Cannot+even+solve+two-sum+lmao.;Whatever+happens%2C+happens)." alt="Typing SVG" />
-\</a>
+<br/>
 
-\<br/>
+<p>
+  <code>systems</code> •
+  <code>reverse engineering</code> •
+  <code>web workers</code> •
+  <code>android internals</code> •
+  <code>media engines</code> •
+  <code>desktop software</code>
+</p>
 
-\<p align="center">
-&#x20; \<code>systems\</code> • \<code>reverse engineering\</code> • \<code>web workers\</code> • \<code>android internals\</code> • \<code>media engines\</code> • \<code>desktop software\</code>
-\</p>
+</div>
 
 ---
-
-\</div>
 
 ### Who am I?
 
@@ -44,7 +48,7 @@ When I'm not having an existential crisis over syntax, I co-run [Emberfig](https
 
 We build privacy-first consumer software out of pure spite whenever mainstream software breaks basic functionality or locks it behind a $20 monthly paywall.
 
-Reach us at [hello@emberfig.com](mailto\:hello@emberfig.com).
+Reach us at [hello@emberfig.com](mailto:hello@emberfig.com).
 
 ```c
 typedef struct {
@@ -66,11 +70,21 @@ Somehow between the larping, terminal staring and questioning my existence, actu
 
 These are projects I've shipped, maintain or actively work on.
 
-#### 01. [Arena Desktop](https://github.com/PlayzAe/arena.ai-desktop) — The unofficial desktop client for arena.ai
+### 01. Arena Desktop — The unofficial desktop client for arena.ai
 
 **Windows · Python · Flask · WebView2 · JavaScript · SSE · MCP**
 
-\<a href="[https://github.com/PlayzAe/arena.ai-desktop](https://github.com/PlayzAe/arena.ai-desktop)">   \<img src="[https://img.shields.io/github/stars/PlayzAe/arena.ai-desktop?style=flat-square&color=f0532c&label=stars](https://img.shields.io/github/stars/PlayzAe/arena.ai-desktop?style=flat-square\&color=f0532c\&label=stars)" />   \<img src="[https://img.shields.io/github/forks/PlayzAe/arena.ai-desktop?style=flat-square&color=f0532c&label=forks](https://img.shields.io/github/forks/PlayzAe/arena.ai-desktop?style=flat-square\&color=f0532c\&label=forks)" />   \<img src="[https://img.shields.io/github/license/PlayzAe/arena.ai-desktop?style=flat-square](https://img.shields.io/github/license/PlayzAe/arena.ai-desktop?style=flat-square)" /> \</a>
+<p>
+  <a href="https://github.com/PlayzAe/arena.ai-desktop">
+    <img src="https://img.shields.io/github/stars/PlayzAe/arena.ai-desktop?style=flat-square&color=f0532c&label=stars" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/PlayzAe/arena.ai-desktop">
+    <img src="https://img.shields.io/github/forks/PlayzAe/arena.ai-desktop?style=flat-square&color=f0532c&label=forks" alt="GitHub Forks" />
+  </a>
+  <a href="https://github.com/PlayzAe/arena.ai-desktop">
+    <img src="https://img.shields.io/github/license/PlayzAe/arena.ai-desktop?style=flat-square" alt="License" />
+  </a>
+</p>
 
 Ever wondered why some AI platforms insist on keeping everything inside a browser tab?
 
@@ -90,42 +104,44 @@ What started as wanting a dedicated desktop experience turned into a much bigger
 
 - Chat with 100+ AI models through Arena.
 - Battle, Side-by-Side, Direct and Agent modes.
-- Real agent workflows with Claude Code-style tool rows.
+- Agent workflows with Claude Code-style tool rows.
 - Let AI read, search, edit and create files inside a local workspace.
-- Run local commands with explicit permission and approval controls.
+- Run local commands from the application.
 - Connect local MCP servers and tools.
-- Switch between multiple Arena accounts.
+- Switch between multiple accounts without logging out.
 - Stream agent responses and tool execution through Server-Sent Events.
-- Keep local workspace files synchronized with the agent's work.
+- Synchronize local workspace folders with the agent.
 
 **Under the hood:**
 
-- Edge WebView2 / pywebview desktop shell.
+- Edge WebView2 desktop window.
 - Local Python and Flask backend.
 - SSE-based response and tool streaming.
-- Local workspace management and permission controls.
+- Local workspace and file management.
 - MCP server integration.
-- Native desktop integration.
+- Desktop-specific application functionality.
 
 And here's the part I actually care about:
 
 I don't know what Arena's internal roadmap looks like or why an official desktop client isn't their priority. Maybe there's a business reason. Maybe it's simply not something they want to spend engineering resources on.
 
-But the technical argument that a proper desktop experience is somehow impossible? Nah.
+But a proper desktop experience is technically achievable.
 
-A dedicated desktop client is entirely achievable, so I built the experience I wanted instead of waiting around for somebody else to do it.
+So instead of waiting around for somebody else to build one, I built the experience I wanted.
 
 **Consider this my open-source middle finger to the idea that users should settle for a browser tab when a proper desktop application is perfectly possible.**
 
-Not affiliated with or endorsed by Arena AI Inc. Uses your own Arena account. Human verification remains manual.
+It's unofficial, independently developed, and not affiliated with or endorsed by Arena AI.
 
-[View Source Code](https://github.com/PlayzAe/arena.ai-desktop) · [Download for Windows](https://github.com/PlayzAe/arena.ai-desktop/releases)
+[**View Source Code**](https://github.com/PlayzAe/arena.ai-desktop) · [**Download for Windows**](https://github.com/PlayzAe/arena.ai-desktop/releases)
 
 ---
 
-#### 02. [Quilore](https://quilore.com/) — Spotify listening history, without the bullshit
+### 02. Quilore — Spotify listening history, without the bullshit
 
 **Web · React · TypeScript · Web Workers**
+
+[**quilore.com**](https://quilore.com/)
 
 Your entire Spotify listening history, processed directly in your browser from your own GDPR data export.
 
@@ -145,9 +161,11 @@ Your listening history stays yours. No unnecessary backend collecting your shit.
 
 ---
 
-#### 03. [StudyPomo](https://play.google.com/store/apps/details?id=com.everythingabuad.studypomo) — A Pomodoro timer that actually keeps counting
+### 03. StudyPomo — A Pomodoro timer that actually keeps counting
 
 **Android · Kotlin · Foreground Services · WakeLocks**
+
+[**Google Play Store**](https://play.google.com/store/apps/details?id=com.everythingabuad.studypomo)
 
 A Pomodoro timer built around one particularly annoying problem: Android aggressively killing background applications.
 
@@ -166,7 +184,7 @@ Built after reading roughly 2,000 reviews of other timer apps and finding out ho
 
 ---
 
-#### 04. [PlayzAnime](https://playzae.github.io/playz_anime_landingpage/) — Anime and manga without unnecessary restrictions
+### 04. PlayzAnime — Anime and manga without unnecessary restrictions
 
 **Windows · Android · Web · Electron · React · Flutter · Dart**
 
@@ -185,9 +203,11 @@ An ad-free anime and manga streaming platform with a custom media experience.
 
 ---
 
-#### 05. [Ponderanda](https://ponderanda.com/) — Five problems. One attempt. Every day.
+### 05. Ponderanda — Five problems. One attempt. Every day.
 
 **Web · Android**
+
+[**ponderanda.com**](https://ponderanda.com/)
 
 A daily arithmetic progression ladder.
 
@@ -206,7 +226,7 @@ Built against brain-training applications that restrict basic functionality behi
 
 ---
 
-#### 06. [Herewise](https://emberfig.com/apps/) — Offline lecture attendance
+### 06. Herewise — Offline lecture attendance
 
 **Windows · Python · Desktop Software**
 
@@ -216,11 +236,15 @@ No cloud dependency. No internet requirement. No unnecessary accounts.
 
 Built because losing attendance records shouldn't be an acceptable feature of an attendance management system.
 
+[Explore Emberfig Apps](https://emberfig.com/apps/)
+
 ---
 
-#### 07. [Zykof](https://zykof.best/) — My own little corner of the internet
+### 07. Zykof — My own little corner of the internet
 
 **Full-stack · Next.js · C++ · Payments · License Management**
+
+[**zykof.best**](https://zykof.best/)
 
 A full-stack platform I operate independently.
 
@@ -247,7 +271,7 @@ Not another recycled tutorial explaining what a variable is.
 
 Actual breakdowns of things I've investigated, built or broken.
 
-- [Spotify Timestamp Gap Analysis](https://emberfig.com/teardowns/)
+- Spotify timestamp gap analysis.
 - Android background services and OEM task killers.
 - Desktop application architecture.
 - Local-first software and privacy.
@@ -280,24 +304,24 @@ Kotlin, Flutter, Dart, Android SDK, Foreground Services, WakeLocks, background e
 
 ---
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/PlayzAe](https://github.com/PlayzAe)">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=playzae&theme=tokyonight&hide_border=true&card_width=450](https://github-readme-streak-stats.herokuapp.com/?user=playzae\&theme=tokyonight\&hide_border=true\&card_width=450)" alt="GitHub Streak" />
-\</a>
+<a href="https://github.com/PlayzAe">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=playzae&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<p align="center">
-&#x20; \<a href="[https://playzae.github.io/main-portfolio/](https://playzae.github.io/main-portfolio/)">Portfolio\</a> •
-&#x20; \<a href="[https://emberfig.com/](https://emberfig.com/)">Emberfig\</a> •
-&#x20; \<a href="[https://emberfig.com/teardowns/](https://emberfig.com/teardowns/)">Teardowns\</a> •
-&#x20; \<a href="mailto\:hello\@emberfig.com">Contact\</a> •
-&#x20; \<a href="[https://github.com/PlayzAe](https://github.com/PlayzAe)">GitHub\</a>
-\</p>
+<p>
+  <a href="https://playzae.github.io/main-portfolio/">Portfolio</a> •
+  <a href="https://emberfig.com/">Emberfig</a> •
+  <a href="https://emberfig.com/teardowns/">Teardowns</a> •
+  <a href="mailto:hello@emberfig.com">Contact</a> •
+  <a href="https://github.com/PlayzAe">GitHub</a>
+</p>
 
-\<br/>
+<br/>
 
-\<code>WHATEVER HAPPENS, HAPPENS.\</code>
+<code>WHATEVER HAPPENS, HAPPENS.</code>
 
-\</div>
+</div>
